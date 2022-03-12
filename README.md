@@ -48,6 +48,10 @@ THEN I am able to view comments but I am prompted to log in again before I can a
 
 # Screenshots of app
 
+Signing up
+![image](https://user-images.githubusercontent.com/70649266/158038169-c92663ef-c848-474d-bb8f-eb841b4170ba.png)
+
+
 Creating post
 
 ![image](https://user-images.githubusercontent.com/70649266/158037972-66deea92-79f1-45c0-86d4-6501da88c092.png)
