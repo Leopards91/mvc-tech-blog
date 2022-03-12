@@ -95,7 +95,7 @@
   
   .btn-no-style:hover {
     background: none;
-    color: #3486eb;
+    color: blue;
   }
   
   .delete-post-btn {
@@ -103,7 +103,7 @@
   }
   
   .delete-post-btn:hover {
-    background-color: #ff643d;
+    background-color: red;
   }
   
   .post {
@@ -132,7 +132,7 @@
   }
   
   .comment:nth-child(odd) {
-    background-color: #fff5eb;
+    background-color: yellowgreen;
   }
   
   .comment .meta {
